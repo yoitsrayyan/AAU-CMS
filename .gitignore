@@ -1,0 +1,12 @@
+# Build output
+/bin/
+/build/
+*.o
+*.out
+*.exe
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
